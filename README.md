@@ -5,4 +5,4 @@ A repository of Free RPG Maker MV Plugins
 
 ## Plugins
 
-* Start battles with a set amount of TP.
+* [Start battles with a set amount of TP.](https://github.com/BrianRosamilia/Ros-RPG-Maker-Plugins/blob/master/battlerTPGain.js)
