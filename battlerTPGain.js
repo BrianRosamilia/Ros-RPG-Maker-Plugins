@@ -10,7 +10,7 @@
  */
 
 (function(){
-	var parameters = PluginManager.parameters('battlerTPGain');
+        var parameters = PluginManager.parameters('battlerTPGain');
         var tp = Number(parameters['tp'] || 5);
 
 	Game_Battler.prototype.initTp = function() {
