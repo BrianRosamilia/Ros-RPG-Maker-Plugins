@@ -5,7 +5,7 @@
 /*:
  * @plugindesc Start battles with a set amount of TP.
  * @author Brian Rosamilia
- * @help github.com/BrianRosamilia
+ * @help https://github.com/BrianRosamilia/Ros-RPG-Maker-Plugins
  * @param tp
  */
 
