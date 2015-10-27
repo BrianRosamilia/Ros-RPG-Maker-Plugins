@@ -27,8 +27,6 @@
 
     Game_Event.prototype.start = function() {
         Game_Event_start.call(this);
-        console.log('triggered an event');
-        console.log(this.event());
         ga('send', 'event', 'Event Triggered', this.event().name, this.event().note);
     };
 })();
